@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarianaBirca
-- 🌱 Junior Developer - JavaScript, React
+- 🌱 Power Platform Developer - JavaScript, D365
 
 <!---
 MarianaBirca/MarianaBirca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
